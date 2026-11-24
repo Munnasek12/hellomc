@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Afk Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "MunnaTheDevopontop",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "51.89.173.152",
+    "port": 16058,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
